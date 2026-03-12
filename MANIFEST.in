@@ -11,6 +11,8 @@ include *.txt
 include *.yaml
 include .editorconfig
 include .flake8
+include .prettierignore
+include .prettierrc.yaml
 include .yamllint.yaml
 include Dockerfile
 include LICENSE
