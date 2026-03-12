@@ -8,9 +8,10 @@
 
 ## About
 
-REANA-Dask-Kubernetes-Operator is a component of the [REANA](http://www.reana.io/) reusable
-and reproducible research data analysis platform. It extends the functionality of the 
-Dask Kubernetes Operator with plugins that are necessary for REANA.
+REANA-Dask-Kubernetes-Operator is a component of the
+[REANA](http://www.reana.io/) reusable and reproducible research data
+analysis platform. It extends the functionality of the Dask Kubernetes
+Operator with plugins that are necessary for REANA.
 
 ## Features
 
